@@ -1,0 +1,429 @@
+2024-05-18 13:09:02,414  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/keyurparmar/Library/Caches/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml
+
+2024-05-18 13:09:02,867  INFO [main] BaseClass:37 - Initialization Test...
+2024-05-18 13:09:02,867  INFO [main] BaseClass:38 - TimeStamp: 1716017942
+2024-05-18 13:09:08,318  INFO [main] WebDriverManager:1220 - Using chromedriver 124.0.6367.207 (resolved driver for Chrome 124)
+2024-05-18 13:09:08,354  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as /Users/keyurparmar/.cache/selenium/chromedriver/mac-arm64/124.0.6367.207/chromedriver
+2024-05-18 13:09:09,950  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-18 13:09:11,963  INFO [main] BaseClass:28 - Visited https://www.playball-qa.fun/
+2024-05-18 13:09:12,092  INFO [main] BaseClass:34 - Entered Email: point@gmail.com
+2024-05-18 13:09:12,195  INFO [main] BaseClass:38 - Entered Password
+2024-05-18 13:09:12,249  INFO [main] BaseClass:42 - Clicked on Enter Button
+2024-05-18 13:09:37,493  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-18 13:09:37,494  INFO [main] BaseClass:55 - ::::Active Browser is close::::
+2024-05-18 13:09:37,653  INFO [main] BaseClass:57 - ::::All Browser is quit::::
+2024-05-18 13:09:49,211  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/keyurparmar/Library/Caches/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml
+
+2024-05-18 13:09:49,641  INFO [main] BaseClass:37 - Initialization Test...
+2024-05-18 13:09:49,641  INFO [main] BaseClass:38 - TimeStamp: 1716017989
+2024-05-18 13:09:49,793  INFO [main] WebDriverManager:1220 - Using chromedriver 124.0.6367.207 (resolved driver for Chrome 124)
+2024-05-18 13:09:49,869  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as /Users/keyurparmar/.cache/selenium/chromedriver/mac-arm64/124.0.6367.207/chromedriver
+2024-05-18 13:09:51,097  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-18 13:09:52,731  INFO [main] BaseClass:28 - Visited https://www.playball-qa.fun/
+2024-05-18 13:09:52,886  INFO [main] BaseClass:34 - Entered Email: point@gmail.com
+2024-05-18 13:09:52,924  INFO [main] BaseClass:38 - Entered Password
+2024-05-18 13:09:52,971  INFO [main] BaseClass:42 - Clicked on Enter Button
+2024-05-18 13:09:54,545  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-18 13:09:55,631  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-18 13:09:55,665  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-18 13:09:55,827  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-18 13:09:55,827  INFO [main] BaseClass:55 - ::::Active Browser is close::::
+2024-05-18 13:09:55,929  INFO [main] BaseClass:57 - ::::All Browser is quit::::
+2024-05-18 13:10:17,164  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/keyurparmar/Library/Caches/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml
+
+2024-05-18 13:10:17,995  INFO [main] BaseClass:37 - Initialization Test...
+2024-05-18 13:10:17,996  INFO [main] BaseClass:38 - TimeStamp: 1716018017
+2024-05-18 13:10:18,326  INFO [main] WebDriverManager:1220 - Using chromedriver 124.0.6367.207 (resolved driver for Chrome 124)
+2024-05-18 13:10:18,361  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as /Users/keyurparmar/.cache/selenium/chromedriver/mac-arm64/124.0.6367.207/chromedriver
+2024-05-18 13:10:20,217  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-18 13:10:22,326  INFO [main] BaseClass:28 - Visited https://www.playball-qa.fun/
+2024-05-18 13:10:22,564  INFO [main] BaseClass:34 - Entered Email: point@gmail.com
+2024-05-18 13:10:22,711  INFO [main] BaseClass:38 - Entered Password
+2024-05-18 13:10:22,774  INFO [main] BaseClass:42 - Clicked on Enter Button
+2024-05-18 13:10:48,416  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-18 13:10:48,416  INFO [main] BaseClass:55 - ::::Active Browser is close::::
+2024-05-18 13:10:48,645  INFO [main] BaseClass:57 - ::::All Browser is quit::::
+2024-05-18 18:23:22,482  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/keyurparmar/Library/Caches/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml
+
+2024-05-18 18:23:22,943  INFO [main] BaseClass:37 - Initialization Test...
+2024-05-18 18:23:22,944  INFO [main] BaseClass:38 - TimeStamp: 1716036802
+2024-05-18 18:23:29,883  INFO [main] WebDriverManager:1220 - Using chromedriver 124.0.6367.207 (resolved driver for Chrome 124)
+2024-05-18 18:23:29,920  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as /Users/keyurparmar/.cache/selenium/chromedriver/mac-arm64/124.0.6367.207/chromedriver
+2024-05-18 18:23:31,453  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-18 18:23:33,820  INFO [main] BaseClass:28 - Visited https://www.playball-qa.fun/
+2024-05-18 18:23:34,015  INFO [main] BaseClass:34 - Entered Email: point@gmail.com
+2024-05-18 18:23:34,078  INFO [main] BaseClass:38 - Entered Password
+2024-05-18 18:23:34,141  INFO [main] BaseClass:42 - Clicked on Enter Button
+2024-05-18 18:23:35,709  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-18 18:23:36,716  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-18 18:23:36,741  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-18 18:23:36,987  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-18 18:23:36,987  INFO [main] BaseClass:55 - ::::Active Browser is close::::
+2024-05-18 18:23:37,093  INFO [main] BaseClass:57 - ::::All Browser is quit::::
+2024-05-18 18:25:34,417  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/keyurparmar/Library/Caches/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml
+
+2024-05-18 18:25:34,870  INFO [main] BaseClass:37 - Initialization Test...
+2024-05-18 18:25:34,871  INFO [main] BaseClass:38 - TimeStamp: 1716036934
+2024-05-18 18:25:35,065  INFO [main] WebDriverManager:1220 - Using chromedriver 124.0.6367.207 (resolved driver for Chrome 124)
+2024-05-18 18:25:35,104  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as /Users/keyurparmar/.cache/selenium/chromedriver/mac-arm64/124.0.6367.207/chromedriver
+2024-05-18 18:25:36,648  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-18 18:25:38,562  INFO [main] BaseClass:28 - Visited https://www.playball-qa.fun/
+2024-05-18 18:25:38,718  INFO [main] BaseClass:34 - Entered Email: point@gmail.com
+2024-05-18 18:25:38,787  INFO [main] BaseClass:38 - Entered Password
+2024-05-18 18:25:38,848  INFO [main] BaseClass:42 - Clicked on Enter Button
+2024-05-18 18:25:40,413  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-18 18:25:41,895  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-18 18:25:41,918  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-18 18:25:42,177  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-18 18:25:42,177  INFO [main] BaseClass:55 - ::::Active Browser is close::::
+2024-05-18 18:25:42,276  INFO [main] BaseClass:57 - ::::All Browser is quit::::
+2024-05-18 18:30:16,902  INFO [main] Utils:112 - [TestNG] Running:
+  /Users/keyurparmar/Library/Caches/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml
+
+2024-05-18 18:30:17,370  INFO [main] BaseClass:37 - Initialization Test...
+2024-05-18 18:30:17,371  INFO [main] BaseClass:38 - TimeStamp: 1716037217
+2024-05-18 18:30:17,574  INFO [main] WebDriverManager:1220 - Using chromedriver 124.0.6367.207 (resolved driver for Chrome 124)
+2024-05-18 18:30:17,614  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as /Users/keyurparmar/.cache/selenium/chromedriver/mac-arm64/124.0.6367.207/chromedriver
+2024-05-18 18:30:19,120  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-18 18:30:21,460  INFO [main] BaseClass:28 - Visited https://www.playball-qa.fun/
+2024-05-18 18:30:21,599  INFO [main] BaseClass:34 - Entered Email: point@gmail.com
+2024-05-18 18:30:21,660  INFO [main] BaseClass:38 - Entered Password
+2024-05-18 18:30:21,717  INFO [main] BaseClass:42 - Clicked on Enter Button
+2024-05-18 18:30:23,792  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-18 18:30:24,788  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-18 18:30:24,813  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-18 18:30:25,391  INFO [main] BaseClass:28 - Country with it's correct status is displayed
+2024-05-18 18:30:25,393  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-18 18:30:25,393  INFO [main] BaseClass:55 - ::::Active Browser is close::::
+2024-05-18 18:30:25,499  INFO [main] BaseClass:57 - ::::All Browser is quit::::
+2024-05-21 10:40:56,148  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 10:40:56,151  INFO [main] BaseClass:41 - TimeStamp: 1716302456
+2024-05-21 10:40:57,205  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 10:40:57,252  INFO [main] Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.60/win32/chromedriver-win32.zip
+2024-05-21 10:40:57,874  INFO [main] Downloader:189 - Extracting driver from compressed file chromedriver-win32.zip
+2024-05-21 10:40:57,998  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 10:40:59,467  INFO [main] BaseClass:15 - Scenario Executing Start :-
+2024-05-21 10:40:59,497  INFO [main] BaseClass:26 - Scenario Executing Finish :-
+2024-05-21 10:40:59,498  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 10:41:01,640  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 10:44:56,663  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 10:44:56,666  INFO [main] BaseClass:41 - TimeStamp: 1716302696
+2024-05-21 10:44:57,015  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 10:44:57,042  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 10:44:58,584  INFO [main] BaseClass:15 - Scenario Executing Start :-
+2024-05-21 10:44:58,620  INFO [main] BaseClass:26 - Scenario Executing Finish :-
+2024-05-21 10:44:58,622  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 10:45:01,197  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 11:20:06,474  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 11:20:06,678  WARN [main] Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2024-05-21 11:20:43,305  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 11:20:45,255  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 11:20:45,256  INFO [main] BaseClass:41 - TimeStamp: 1716304845
+2024-05-21 11:20:45,804  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 11:20:45,855  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 11:20:48,066  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 11:20:48,123  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 11:20:48,123  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 11:20:49,117  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 11:24:13,323  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 11:24:15,083  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 11:24:15,084  INFO [main] BaseClass:41 - TimeStamp: 1716305055
+2024-05-21 11:24:15,606  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 11:24:15,644  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 11:24:17,455  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 11:24:18,763  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-21 11:24:18,781  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 11:24:18,782  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 11:24:20,877  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 11:28:42,520  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 11:28:44,243  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 11:28:44,244  INFO [main] BaseClass:41 - TimeStamp: 1716305324
+2024-05-21 11:28:44,797  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 11:28:44,864  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 11:28:46,985  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 11:28:48,067  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-21 11:28:48,330  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 11:28:48,331  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 11:28:50,613  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 11:31:22,063  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 11:31:22,298  WARN [main] Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2024-05-21 11:32:12,224  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 11:32:12,550  WARN [main] Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2024-05-21 11:43:14,938  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 11:43:17,154  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 11:43:17,155  INFO [main] BaseClass:41 - TimeStamp: 1716306197
+2024-05-21 11:43:18,665  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 11:43:18,726  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 11:43:21,018  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 11:43:21,734  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-21 11:43:22,676  INFO [main] BaseClass:60 - Entered Email: point@gmail.com
+2024-05-21 11:43:22,824  INFO [main] BaseClass:64 - Entered Password
+2024-05-21 11:43:22,977  INFO [main] BaseClass:68 - Clicked on Enter Button
+2024-05-21 11:43:24,127  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-21 11:43:25,223  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-21 11:43:25,293  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-21 11:43:26,018  INFO [main] BaseClass:28 - Country with it's correct status is displayed
+2024-05-21 11:43:26,021  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 11:43:26,021  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 11:43:28,305  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 12:10:42,408  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 12:10:45,427  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 12:10:45,429  INFO [main] BaseClass:41 - TimeStamp: 1716307845
+2024-05-21 12:10:46,482  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 12:10:46,545  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 12:10:50,135  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 12:10:50,194  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 12:10:50,195  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 12:10:53,066  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 12:13:19,519  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 12:13:24,459  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 12:13:24,460  INFO [main] BaseClass:41 - TimeStamp: 1716308004
+2024-05-21 12:13:26,290  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 12:13:26,355  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 12:13:30,446  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 12:13:30,583  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 12:13:30,586  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 12:13:33,721  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 12:15:27,377  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 12:15:36,405  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 12:15:36,411  INFO [main] BaseClass:41 - TimeStamp: 1716308136
+2024-05-21 12:15:42,579  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 12:15:42,791  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 12:15:51,028  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 12:15:52,553  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-21 12:15:53,020  INFO [main] BaseClass:60 - Entered Email: point@gmail.com
+2024-05-21 12:15:53,363  INFO [main] BaseClass:64 - Entered Password
+2024-05-21 12:15:53,612  INFO [main] BaseClass:68 - Clicked on Enter Button
+2024-05-21 12:15:55,215  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-21 12:15:56,486  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-21 12:15:56,626  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-21 12:15:57,025  INFO [main] BaseClass:28 - Country with it's correct status is displayed
+2024-05-21 12:15:57,029  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 12:15:57,029  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 12:16:15,432  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 12:24:26,018  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 12:24:50,718  WARN [main] Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2024-05-21 12:35:27,988  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 12:35:35,947  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-21 12:35:35,951  INFO [main] BaseClass:41 - TimeStamp: 1716309335
+2024-05-21 12:35:38,523  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.60 (resolved driver for Chrome 125)
+2024-05-21 12:35:38,683  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.60\chromedriver.exe
+2024-05-21 12:35:45,366  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-21 12:35:46,954  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-21 12:35:47,686  INFO [main] BaseClass:60 - Entered Email: point@gmail.com
+2024-05-21 12:35:47,964  INFO [main] BaseClass:64 - Entered Password
+2024-05-21 12:35:48,268  INFO [main] BaseClass:68 - Clicked on Enter Button
+2024-05-21 12:35:49,565  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-21 12:35:50,511  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-21 12:35:50,748  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-21 12:35:51,668  INFO [main] BaseClass:28 - Country with it's correct status is displayed
+2024-05-21 12:35:51,679  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-21 12:35:51,681  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-21 12:35:54,853  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-21 15:02:42,467  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-21 15:02:43,581  WARN [main] Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2024-05-23 17:32:14,221  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-23 17:32:15,092  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:32:15,093  INFO [main] BaseClass:41 - TimeStamp: 1716499935
+2024-05-23 17:32:16,055  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:32:16,100  INFO [main] Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.76/win32/chromedriver-win32.zip
+2024-05-23 17:32:16,622  INFO [main] Downloader:189 - Extracting driver from compressed file chromedriver-win32.zip
+2024-05-23 17:32:16,748  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:32:18,850  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-23 17:32:19,857  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-23 17:32:20,068  INFO [main] BaseClass:60 - Entered Email: point@gmail.com
+2024-05-23 17:32:20,147  INFO [main] BaseClass:64 - Entered Password
+2024-05-23 17:32:20,208  INFO [main] BaseClass:68 - Clicked on Enter Button
+2024-05-23 17:32:21,298  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-23 17:32:22,173  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-23 17:32:22,224  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-23 17:32:23,347  INFO [main] BaseClass:28 - Country with it's correct status is displayed
+2024-05-23 17:32:23,349  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-23 17:32:23,349  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:32:25,293  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:32:56,513  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-23 17:32:57,653  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:32:57,654  INFO [main] BaseClass:41 - TimeStamp: 1716499977
+2024-05-23 17:32:58,052  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:32:58,077  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:32:59,677  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] Should be possible hide the Country
+2024-05-23 17:33:00,686  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-23 17:33:00,972  INFO [main] BaseClass:60 - Entered Email: point@gmail.com
+2024-05-23 17:33:01,077  INFO [main] BaseClass:64 - Entered Password
+2024-05-23 17:33:01,168  INFO [main] BaseClass:68 - Clicked on Enter Button
+2024-05-23 17:33:02,235  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-23 17:33:03,137  INFO [main] BaseClass:29 - Clicked on Countries & cities option
+2024-05-23 17:33:03,197  INFO [main] BaseClass:28 - Page title is displayed
+2024-05-23 17:33:03,851  INFO [main] BaseClass:28 - Country with it's correct status is displayed
+2024-05-23 17:33:03,855  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] Should be possible hide the Country
+2024-05-23 17:33:03,855  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:33:06,085  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:35:47,418  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-23 17:35:49,002  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:35:49,003  INFO [main] BaseClass:41 - TimeStamp: 1716500149
+2024-05-23 17:35:49,451  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:35:49,485  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:35:51,187  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-23 17:35:51,242  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-23 17:35:51,242  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:35:53,868  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:38:14,745  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:38:14,748  INFO [main] BaseClass:41 - TimeStamp: 1716500294
+2024-05-23 17:38:15,289  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:38:15,331  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:38:17,471  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-23 17:38:17,512  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-23 17:38:17,513  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:38:19,816  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:40:11,785  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:40:11,788  INFO [main] BaseClass:41 - TimeStamp: 1716500411
+2024-05-23 17:40:12,570  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:40:12,628  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:40:15,526  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-23 17:40:15,779  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-23 17:40:15,780  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:40:17,944  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:45:59,017  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-23 17:46:02,191  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:46:02,193  INFO [main] BaseClass:41 - TimeStamp: 1716500762
+2024-05-23 17:46:03,463  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:46:03,575  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:46:07,098  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-23 17:46:07,163  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-23 17:46:07,164  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:46:10,426  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:48:15,338  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-23 17:48:20,756  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:48:20,761  INFO [main] BaseClass:41 - TimeStamp: 1716500900
+2024-05-23 17:48:22,431  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:48:22,608  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:48:27,059  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-23 17:48:27,393  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-23 17:48:27,394  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:48:30,488  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:53:25,747  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:53:25,759  INFO [main] BaseClass:41 - TimeStamp: 1716501205
+2024-05-23 17:53:28,486  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:53:28,543  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 17:53:39,628  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-23 17:53:39,668  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-23 17:53:39,669  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 17:53:47,405  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-23 17:59:16,111  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-23 17:59:46,403  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-23 17:59:46,468  INFO [main] BaseClass:41 - TimeStamp: 1716501586
+2024-05-23 17:59:54,266  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-23 17:59:55,014  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-23 18:00:14,522  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-23 18:00:16,651  INFO [main] BaseClass:28 - Visitedhttps://www.playball-qa.fun/
+2024-05-23 18:00:17,239  INFO [main] BaseClass:60 - Entered Email: point@gmail.com
+2024-05-23 18:00:18,105  INFO [main] BaseClass:64 - Entered Password
+2024-05-23 18:00:18,504  INFO [main] BaseClass:68 - Clicked on Enter Button
+2024-05-23 18:00:19,587  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-23 18:00:19,588  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-23 18:00:24,515  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 11:03:15,281  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 11:03:15,284  INFO [main] BaseClass:41 - TimeStamp: 1716562995
+2024-05-24 11:03:16,287  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 11:03:16,304  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 11:03:18,397  INFO [main] BaseClass:15 - Scenario Executing Start :-[positive] User should be able to login
+2024-05-24 11:03:18,412  INFO [main] BaseClass:26 - Scenario Executing Finish :-[positive] User should be able to login
+2024-05-24 11:03:18,413  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 11:03:18,644  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 11:03:18,653  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 11:03:18,654  INFO [main] BaseClass:41 - TimeStamp: 1716562995
+2024-05-24 11:03:18,663  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 11:03:18,671  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 11:03:19,537  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:03:19,544  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:03:19,545  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 11:03:21,333  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 11:03:21,338  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 11:03:21,339  INFO [main] BaseClass:41 - TimeStamp: 1716562995
+2024-05-24 11:03:21,349  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 11:03:21,354  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 11:03:22,143  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:03:22,161  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:03:22,161  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 11:03:24,036  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 11:03:24,043  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 11:03:24,043  INFO [main] BaseClass:41 - TimeStamp: 1716562995
+2024-05-24 11:03:24,053  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 11:03:24,061  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 11:03:24,951  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:03:24,956  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:03:24,956  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 11:03:26,858  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 11:45:33,001  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 11:45:35,079  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 11:45:35,080  INFO [main] BaseClass:41 - TimeStamp: 1716565535
+2024-05-24 11:45:35,656  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 11:45:35,706  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 11:45:37,903  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:45:39,286  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 11:45:40,865  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:45:40,865  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 11:45:41,464  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 11:45:41,604  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 11:45:41,605  INFO [main] BaseClass:41 - TimeStamp: 1716565535
+2024-05-24 11:45:41,721  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 11:45:41,753  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 11:45:44,570  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:45:45,649  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 11:45:46,798  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:45:46,800  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 11:45:48,868  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 11:45:48,880  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 11:45:48,880  INFO [main] BaseClass:41 - TimeStamp: 1716565535
+2024-05-24 11:45:48,899  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 11:45:48,913  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 11:45:50,767  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:45:51,177  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 11:45:53,407  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-05-24 11:45:53,407  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 11:45:55,600  INFO [main] BaseClass:60 - ::::All Browser is quit::::
