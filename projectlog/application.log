@@ -427,3 +427,272 @@
 2024-05-24 11:45:53,407  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
 2024-05-24 11:45:53,407  INFO [main] BaseClass:58 - ::::Active Browser is close::::
 2024-05-24 11:45:55,600  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 17:06:58,071  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 17:06:58,074  INFO [main] BaseClass:41 - TimeStamp: 1716584817
+2024-05-24 17:06:59,708  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 17:06:59,745  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 17:07:03,642  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 17:07:03,687  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 17:07:03,687  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 17:07:06,194  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 17:07:06,217  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 17:07:06,217  INFO [main] BaseClass:41 - TimeStamp: 1716584817
+2024-05-24 17:07:06,265  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 17:07:06,323  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 17:07:08,439  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 17:07:08,471  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 17:07:08,471  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 17:07:10,967  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 17:07:10,984  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 17:07:10,986  INFO [main] BaseClass:41 - TimeStamp: 1716584817
+2024-05-24 17:07:11,010  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.76 (resolved driver for Chrome 125)
+2024-05-24 17:07:11,119  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.76\chromedriver.exe
+2024-05-24 17:07:14,012  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 17:07:14,025  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 17:07:14,025  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 17:07:17,022  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 18:00:51,474  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 18:00:56,425  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 18:00:56,426  INFO [main] BaseClass:41 - TimeStamp: 1716588056
+2024-05-24 18:00:59,482  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 18:00:59,848  INFO [main] Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.78/win32/chromedriver-win32.zip
+2024-05-24 18:01:01,527  INFO [main] Downloader:189 - Extracting driver from compressed file chromedriver-win32.zip
+2024-05-24 18:01:03,089  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 18:01:10,154  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 18:01:11,836  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 18:01:14,743  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 18:01:14,745  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 18:01:20,886  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 18:01:21,196  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 18:01:21,199  INFO [main] BaseClass:41 - TimeStamp: 1716588056
+2024-05-24 18:01:21,363  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 18:01:21,482  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 18:01:27,199  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 18:01:28,771  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 18:01:32,549  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 18:01:32,549  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 18:01:41,726  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 18:01:42,401  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 18:01:42,418  INFO [main] BaseClass:41 - TimeStamp: 1716588056
+2024-05-24 18:01:42,759  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 18:01:42,993  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 18:02:01,475  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 18:02:03,144  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 18:02:08,936  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 18:02:08,940  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 18:02:15,046  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 19:24:35,542  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 19:24:36,366  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 19:24:36,366  INFO [main] BaseClass:41 - TimeStamp: 1716593076
+2024-05-24 19:24:37,032  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:24:37,046  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:24:38,156  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:24:39,112  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:24:41,732  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:24:41,732  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 19:24:41,956  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 19:24:41,975  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 19:24:41,975  INFO [main] BaseClass:41 - TimeStamp: 1716593076
+2024-05-24 19:24:41,986  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:24:41,992  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:24:43,040  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:24:43,904  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:24:45,839  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:24:45,839  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 19:24:45,992  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 19:24:46,003  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-24 19:24:46,003  INFO [main] BaseClass:41 - TimeStamp: 1716593076
+2024-05-24 19:24:46,010  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:24:46,014  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:24:47,040  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:24:47,966  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:24:49,872  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:24:49,872  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-24 19:24:50,044  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-24 19:30:56,300  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 19:30:57,076  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:30:57,076  INFO [main] BaseClass:40 - TimeStamp: 1716593457
+2024-05-24 19:30:57,306  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:30:57,326  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:30:58,253  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:30:59,167  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:31:02,670  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:31:02,670  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:31:02,853  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:31:02,868  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:31:02,868  INFO [main] BaseClass:40 - TimeStamp: 1716593457
+2024-05-24 19:31:02,879  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:31:02,886  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:31:03,814  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:31:04,699  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:31:07,825  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:31:07,825  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:31:07,989  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:31:07,998  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:31:07,998  INFO [main] BaseClass:40 - TimeStamp: 1716593457
+2024-05-24 19:31:08,008  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:31:08,013  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:31:08,850  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:31:09,732  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:31:12,732  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:31:12,733  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:31:14,442  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:35:11,080  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 19:35:12,127  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:35:12,128  INFO [main] BaseClass:40 - TimeStamp: 1716593712
+2024-05-24 19:35:12,449  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:35:12,480  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:35:13,647  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:35:14,697  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:35:17,896  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:35:17,896  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:35:18,115  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:35:18,133  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:35:18,133  INFO [main] BaseClass:40 - TimeStamp: 1716593712
+2024-05-24 19:35:18,149  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:35:18,158  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:35:20,100  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:35:20,970  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:35:24,203  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:35:24,203  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:35:24,395  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:35:24,407  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:35:24,408  INFO [main] BaseClass:40 - TimeStamp: 1716593712
+2024-05-24 19:35:24,424  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:35:24,432  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:35:25,290  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:35:26,190  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:35:28,931  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:35:28,931  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:35:29,101  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:37:58,986  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 19:38:00,041  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:38:00,042  INFO [main] BaseClass:40 - TimeStamp: 1716593880
+2024-05-24 19:38:00,378  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:38:00,410  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:38:01,549  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:38:02,472  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:38:05,691  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:38:05,691  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:38:05,930  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:38:05,944  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:38:05,945  INFO [main] BaseClass:40 - TimeStamp: 1716593880
+2024-05-24 19:38:05,955  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:38:05,964  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:38:07,934  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:38:08,817  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:38:11,540  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:38:11,540  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:38:11,731  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:38:11,740  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:38:11,740  INFO [main] BaseClass:40 - TimeStamp: 1716593880
+2024-05-24 19:38:11,753  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:38:11,759  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:38:12,524  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:38:13,401  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:38:15,963  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:38:15,963  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:38:17,707  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:39:43,828  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 19:39:45,218  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:39:45,219  INFO [main] BaseClass:40 - TimeStamp: 1716593985
+2024-05-24 19:39:45,589  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:39:45,624  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:39:46,904  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:39:47,838  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:39:50,757  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:39:50,757  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:39:53,125  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:39:53,150  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:39:53,151  INFO [main] BaseClass:40 - TimeStamp: 1716593985
+2024-05-24 19:39:53,166  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:39:53,178  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:39:54,172  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:39:55,027  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:39:57,578  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:39:57,578  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:39:59,808  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:39:59,830  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:39:59,831  INFO [main] BaseClass:40 - TimeStamp: 1716593985
+2024-05-24 19:39:59,852  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:39:59,870  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:40:01,048  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:40:02,042  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:40:04,615  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:40:04,616  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:40:07,081  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:41:05,187  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 19:41:07,192  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:41:07,193  INFO [main] BaseClass:40 - TimeStamp: 1716594067
+2024-05-24 19:41:08,005  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:41:08,054  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:41:09,797  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:41:10,214  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:41:14,000  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:41:14,000  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:41:14,268  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:41:14,293  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:41:14,293  INFO [main] BaseClass:40 - TimeStamp: 1716594067
+2024-05-24 19:41:14,324  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:41:14,392  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:41:17,173  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:41:17,592  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:41:21,407  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:41:21,408  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:41:21,835  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 19:41:21,856  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 19:41:21,857  INFO [main] BaseClass:40 - TimeStamp: 1716594067
+2024-05-24 19:41:21,872  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 19:41:21,892  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 19:41:23,267  INFO [main] BaseClass:15 - Scenario Executing Start :-Successful login and search for matches by playground
+2024-05-24 19:41:24,219  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 19:41:27,442  INFO [main] BaseClass:26 - Scenario Executing Finish :-Successful login and search for matches by playground
+2024-05-24 19:41:27,442  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 19:41:29,537  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 22:28:20,063  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 22:28:20,069  INFO [main] BaseClass:40 - TimeStamp: 1716604099
+2024-05-24 22:28:21,731  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 22:28:21,757  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 22:28:25,615  INFO [main] BaseClass:15 - Scenario Executing Start :-Search for matches with special characters in playground name
+2024-05-24 22:28:26,063  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 22:28:26,076  INFO [main] BaseClass:26 - Scenario Executing Finish :-Search for matches with special characters in playground name
+2024-05-24 22:28:26,076  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 22:28:28,297  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-24 22:36:39,823  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-24 22:36:43,567  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-24 22:36:43,568  INFO [main] BaseClass:40 - TimeStamp: 1716604603
+2024-05-24 22:36:44,756  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-24 22:36:44,845  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-24 22:36:48,122  INFO [main] BaseClass:15 - Scenario Executing Start :-Search for matches with special characters in playground name
+2024-05-24 22:36:48,833  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-24 22:36:52,731  INFO [main] BaseClass:26 - Scenario Executing Finish :-Search for matches with special characters in playground name
+2024-05-24 22:36:52,732  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-24 22:36:55,919  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-26 09:49:46,490  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-26 09:49:47,481  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-26 09:49:47,482  INFO [main] BaseClass:40 - TimeStamp: 1716731387
+2024-05-26 09:49:48,565  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-26 09:49:48,592  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-26 09:49:50,529  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative]Search for matches with special characters in playground name
+2024-05-26 09:49:51,781  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-26 09:49:54,368  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative]Search for matches with special characters in playground name
+2024-05-26 09:49:54,369  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-26 09:49:54,589  INFO [main] BaseClass:59 - ::::All Browser is quit::::

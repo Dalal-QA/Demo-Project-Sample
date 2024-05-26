@@ -12,7 +12,7 @@ Feature: Users should be able to authenticate to the application
     When user enter "<ValidPassword>" in a password input field
     And user clicks on Enter button
 
-#    When user enter "<point@gmail.com>" in email input field
+#    When user enter "point@gmail.com" in email input field
 #    And user enter "12345678" in a password input field
 #    And user clicks on Enter button
     Then user is navigated to authenticated Dashboard

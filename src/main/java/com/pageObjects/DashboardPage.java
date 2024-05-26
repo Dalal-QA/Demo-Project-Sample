@@ -18,6 +18,16 @@ public class DashboardPage extends BaseClass {
     @FindBy(xpath = "//h1[text()='Dashboard']")
     WebElement dashboardTitle;
 
+    @FindBy(xpath ="//p[@class='NavbarItem_item__label__FfqJ1 false'][normalize-space()='Matches']")
+    WebElement matchesButton;
+
+    //
+
+    public MatchesPage clickMatchesButton(){
+        clickOnElement(matchesButton);
+        return new MatchesPage(driver);
+    }
+
     public boolean isDashboardTitleDisplayed(){
         return wait.until(ExpectedConditions.visibilityOf(dashboardTitle)).isDisplayed();
     }
