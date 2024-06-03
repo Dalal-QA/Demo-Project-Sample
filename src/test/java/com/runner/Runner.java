@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
         features="src/test/resources/features",
         plugin={"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         glue={"com.StepDefinitions","com.hook"},
-        tags = "@fake-search",
+        tags = "@add-countries",
         monochrome=true
 )
 public class Runner extends AbstractTestNGCucumberTests {

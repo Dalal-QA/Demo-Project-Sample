@@ -50,4 +50,7 @@ public class countriesTestStepDefinitions extends BaseClass {
     public void verifyThatCountryShowsStatus(String country, String status) {
         common.assertionTrue(countriesPage.isCountryDisplayedWithStatus(country, status), "Country with it's correct status is displayed");
     }
+
+
+
 }

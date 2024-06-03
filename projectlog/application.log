@@ -696,3 +696,932 @@
 2024-05-26 09:49:54,368  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative]Search for matches with special characters in playground name
 2024-05-26 09:49:54,369  INFO [main] BaseClass:57 - ::::Active Browser is close::::
 2024-05-26 09:49:54,589  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-29 10:08:26,706  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-29 10:08:26,709  INFO [main] BaseClass:40 - TimeStamp: 1716991706
+2024-05-29 10:08:28,320  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 10:08:28,377  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 10:08:32,174  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 10:08:32,823  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 10:08:33,782  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 10:08:33,937  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 10:08:34,148  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 10:08:35,263  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 10:08:35,748  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 10:08:35,774  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 10:08:35,775  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-29 10:08:37,880  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-29 10:08:37,904  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-29 10:08:37,905  INFO [main] BaseClass:40 - TimeStamp: 1716991706
+2024-05-29 10:08:37,920  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 10:08:37,928  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 10:08:39,108  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 10:08:40,136  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 10:08:40,466  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 10:08:40,645  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 10:08:40,830  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 10:08:41,961  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 10:08:42,401  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 10:08:42,421  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 10:08:42,421  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-29 10:08:44,498  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-29 10:08:44,521  INFO [main] BaseClass:39 - Initialization Test...
+2024-05-29 10:08:44,521  INFO [main] BaseClass:40 - TimeStamp: 1716991706
+2024-05-29 10:08:44,536  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 10:08:44,547  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 10:08:45,755  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 10:08:46,132  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 10:08:47,112  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 10:08:47,330  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 10:08:47,449  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 10:08:48,562  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 10:08:49,066  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 10:08:49,080  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 10:08:49,081  INFO [main] BaseClass:57 - ::::Active Browser is close::::
+2024-05-29 10:08:49,575  INFO [main] BaseClass:59 - ::::All Browser is quit::::
+2024-05-29 12:35:38,042  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-29 12:35:39,564  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-29 12:35:39,565  INFO [main] BaseClass:41 - TimeStamp: 1717000539
+2024-05-29 12:35:40,671  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 12:35:40,694  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 12:35:42,824  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 12:35:43,432  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 12:35:44,237  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 12:35:44,363  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 12:35:44,480  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 12:35:45,596  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 12:35:46,548  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 12:35:48,409  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 12:35:48,411  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-29 12:35:50,480  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-29 12:35:50,513  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-29 12:35:50,514  INFO [main] BaseClass:41 - TimeStamp: 1717000539
+2024-05-29 12:35:50,529  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 12:35:50,541  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 12:35:51,657  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 12:35:52,664  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 12:35:52,902  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 12:35:53,019  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 12:35:53,121  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 12:35:54,191  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 12:35:54,617  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 12:35:56,155  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 12:35:56,156  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-29 12:35:56,467  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-29 12:35:56,490  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-29 12:35:56,491  INFO [main] BaseClass:41 - TimeStamp: 1717000539
+2024-05-29 12:35:56,569  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 12:35:56,596  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 12:35:58,787  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 12:35:59,720  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 12:35:59,941  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 12:36:00,076  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 12:36:00,198  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 12:36:01,286  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 12:36:01,702  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 12:36:03,037  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 12:36:03,038  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-29 12:36:05,007  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-29 12:47:48,494  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-29 12:47:50,321  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-29 12:47:50,322  INFO [main] BaseClass:41 - TimeStamp: 1717001270
+2024-05-29 12:47:50,864  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 12:47:50,911  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 12:47:53,495  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 12:47:54,627  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 12:47:54,982  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 12:47:55,099  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 12:47:55,210  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 12:47:56,319  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 12:47:56,801  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 12:47:59,380  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 12:47:59,385  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-29 12:48:01,931  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-29 12:48:01,964  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-29 12:48:01,965  INFO [main] BaseClass:41 - TimeStamp: 1717001270
+2024-05-29 12:48:02,005  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 12:48:02,024  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 12:48:03,716  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 12:48:04,804  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 12:48:05,062  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 12:48:05,179  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 12:48:05,304  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 12:48:06,427  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 12:48:06,912  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 12:48:09,364  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 12:48:09,364  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-29 12:48:11,464  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-29 12:48:11,483  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-29 12:48:11,484  INFO [main] BaseClass:41 - TimeStamp: 1717001270
+2024-05-29 12:48:11,498  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.78 (resolved driver for Chrome 125)
+2024-05-29 12:48:11,530  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.78\chromedriver.exe
+2024-05-29 12:48:14,463  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-29 12:48:14,896  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-29 12:48:15,724  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-29 12:48:15,854  INFO [main] BaseClass:69 - Entered Password
+2024-05-29 12:48:15,987  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-29 12:48:17,093  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-29 12:48:17,728  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-29 12:48:19,339  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-29 12:48:19,340  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-29 12:48:23,190  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-31 09:56:16,297  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 09:56:17,933  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-31 09:56:17,933  INFO [main] BaseClass:41 - TimeStamp: 1717163777
+2024-05-31 09:56:19,507  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 09:56:19,559  INFO [main] Downloader:128 - Downloading https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win32/chromedriver-win32.zip
+2024-05-31 09:56:20,239  INFO [main] Downloader:189 - Extracting driver from compressed file chromedriver-win32.zip
+2024-05-31 09:56:20,430  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 09:56:22,694  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 09:56:23,886  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 09:56:24,194  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 09:56:24,352  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 09:56:24,460  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 09:56:25,615  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 09:56:26,137  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 09:56:27,892  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 09:56:27,893  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-31 09:56:29,809  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-31 09:56:29,846  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-31 09:56:29,847  INFO [main] BaseClass:41 - TimeStamp: 1717163777
+2024-05-31 09:56:29,867  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 09:56:29,880  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 09:56:30,914  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 09:56:31,877  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 09:56:32,125  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 09:56:32,241  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 09:56:32,345  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 09:56:33,428  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 09:56:33,856  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 09:56:35,377  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 09:56:35,377  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-31 09:56:37,204  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-31 09:56:37,222  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-31 09:56:37,222  INFO [main] BaseClass:41 - TimeStamp: 1717163777
+2024-05-31 09:56:37,238  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 09:56:37,249  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 09:56:38,429  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 09:56:39,371  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 09:56:39,623  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 09:56:39,751  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 09:56:39,855  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 09:56:40,947  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 09:56:41,393  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 09:56:42,699  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 09:56:42,699  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-31 09:56:44,746  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-31 10:00:12,402  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 10:00:14,299  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-31 10:00:14,300  INFO [main] BaseClass:41 - TimeStamp: 1717164014
+2024-05-31 10:00:14,798  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:00:14,832  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:00:16,930  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:00:18,053  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:00:18,339  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:00:18,470  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:00:18,589  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:00:19,715  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:00:20,218  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:00:21,946  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:00:21,948  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-31 10:00:24,258  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-31 10:00:24,309  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-31 10:00:24,309  INFO [main] BaseClass:41 - TimeStamp: 1717164014
+2024-05-31 10:00:24,334  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:00:24,349  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:00:26,103  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:00:27,038  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:00:27,375  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:00:27,505  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:00:27,636  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:00:28,755  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:00:29,222  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:00:30,916  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:00:30,916  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-31 10:00:31,662  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-31 10:00:31,695  INFO [main] BaseClass:40 - Initialization Test...
+2024-05-31 10:00:31,696  INFO [main] BaseClass:41 - TimeStamp: 1717164014
+2024-05-31 10:00:31,741  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:00:31,757  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:00:33,778  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:00:34,710  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:00:34,990  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:00:35,119  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:00:35,237  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:00:36,350  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:00:36,815  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:00:38,812  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:00:38,812  INFO [main] BaseClass:58 - ::::Active Browser is close::::
+2024-05-31 10:00:41,582  INFO [main] BaseClass:60 - ::::All Browser is quit::::
+2024-05-31 10:31:54,910  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 10:31:57,894  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:31:57,895  INFO [main] BaseClass:43 - TimeStamp: 1717165917
+2024-05-31 10:31:58,886  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:31:58,948  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:32:02,630  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:32:03,406  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:32:04,452  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:32:04,624  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:32:04,776  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:32:05,913  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:32:07,009  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:32:09,392  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:32:09,395  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:32:10,440  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:32:10,495  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:32:10,497  INFO [main] BaseClass:43 - TimeStamp: 1717165917
+2024-05-31 10:32:10,599  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:32:10,648  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:32:12,755  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:32:13,769  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:32:14,108  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:32:14,265  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:32:14,475  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:32:15,141  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:32:16,148  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:32:18,527  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:32:18,527  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:32:20,981  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:32:21,012  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:32:21,012  INFO [main] BaseClass:43 - TimeStamp: 1717165917
+2024-05-31 10:32:21,057  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:32:21,089  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:32:23,601  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:32:24,048  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:32:25,106  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:32:25,347  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:32:25,504  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:32:26,689  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:32:27,387  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:32:29,322  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:32:29,322  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:32:33,321  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:35:44,897  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 10:35:56,266  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:35:56,267  INFO [main] BaseClass:43 - TimeStamp: 1717166156
+2024-05-31 10:35:59,141  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:35:59,454  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:36:08,056  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:36:10,838  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:36:11,243  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:36:11,501  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:36:11,708  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:36:13,086  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:36:14,025  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:36:18,645  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:36:18,646  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:36:25,169  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:36:26,352  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:36:26,394  INFO [main] BaseClass:43 - TimeStamp: 1717166156
+2024-05-31 10:36:27,387  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:36:28,640  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:36:48,144  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:36:51,162  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:36:51,737  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:36:52,675  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:36:53,557  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:36:54,991  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:36:56,934  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:37:07,347  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:37:07,348  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:37:14,040  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:37:14,259  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:37:14,260  INFO [main] BaseClass:43 - TimeStamp: 1717166156
+2024-05-31 10:37:14,273  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:37:14,282  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:37:33,462  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:37:36,892  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:37:37,800  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:37:38,555  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:37:39,487  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:37:41,588  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:37:42,936  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:37:53,600  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:37:53,600  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:38:07,254  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:59:22,122  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 10:59:23,099  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:59:23,100  INFO [main] BaseClass:43 - TimeStamp: 1717167563
+2024-05-31 10:59:23,922  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:59:23,939  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:59:25,196  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:59:26,419  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:59:26,631  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:59:26,719  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:59:26,783  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:59:27,852  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:59:28,726  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:59:31,142  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:59:31,142  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:59:31,395  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:59:31,421  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:59:31,421  INFO [main] BaseClass:43 - TimeStamp: 1717167563
+2024-05-31 10:59:31,430  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:59:31,436  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:59:32,453  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:59:33,331  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:59:33,510  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:59:33,596  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:59:33,660  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:59:34,735  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:59:35,099  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:59:37,415  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:59:37,415  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:59:37,640  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 10:59:37,656  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 10:59:37,656  INFO [main] BaseClass:43 - TimeStamp: 1717167563
+2024-05-31 10:59:37,669  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 10:59:37,677  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 10:59:38,784  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 10:59:39,679  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 10:59:39,861  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 10:59:39,953  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 10:59:40,025  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 10:59:41,103  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 10:59:41,438  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 10:59:43,633  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 10:59:43,633  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 10:59:43,830  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:03:46,302  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 11:03:47,167  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:03:47,168  INFO [main] BaseClass:43 - TimeStamp: 1717167827
+2024-05-31 11:03:47,421  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:03:47,448  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:03:48,585  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:03:49,519  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:03:49,703  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:03:49,790  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:03:49,853  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:03:50,936  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:03:51,301  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:04:18,383  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:04:18,383  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:04:20,220  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:04:20,238  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:04:20,238  INFO [main] BaseClass:43 - TimeStamp: 1717167827
+2024-05-31 11:04:20,247  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:04:20,255  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:04:21,082  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:04:21,976  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:04:22,163  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:04:22,249  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:04:22,311  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:04:23,384  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:04:23,742  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:04:50,817  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:04:50,819  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:04:52,641  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:04:52,658  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:04:52,658  INFO [main] BaseClass:43 - TimeStamp: 1717167827
+2024-05-31 11:04:52,669  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:04:52,677  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:04:53,682  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:04:54,646  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:04:54,863  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:04:54,978  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:04:55,063  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:04:56,132  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:04:56,522  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:05:24,254  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:05:24,254  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:05:24,644  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:08:53,623  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 11:08:54,939  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:08:54,939  INFO [main] BaseClass:43 - TimeStamp: 1717168134
+2024-05-31 11:08:55,296  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:08:55,323  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:08:56,715  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:08:57,693  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:08:57,932  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:08:58,040  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:08:58,127  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:08:59,212  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:08:59,592  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:09:01,026  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:09:01,027  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:09:02,888  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:09:02,912  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:09:02,912  INFO [main] BaseClass:43 - TimeStamp: 1717168134
+2024-05-31 11:09:02,926  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:09:02,935  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:09:04,005  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:09:04,359  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:09:05,151  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:09:05,261  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:09:05,356  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:09:06,434  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:09:06,845  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:09:08,335  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:09:08,335  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:09:10,191  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:09:10,207  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:09:10,207  INFO [main] BaseClass:43 - TimeStamp: 1717168134
+2024-05-31 11:09:10,221  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:09:10,231  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:09:11,599  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:09:12,535  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:09:12,767  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:09:12,887  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:09:12,984  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:09:14,070  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:09:14,512  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:09:16,095  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:09:16,096  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:09:18,359  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:09:51,261  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 11:09:53,271  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:09:53,271  INFO [main] BaseClass:43 - TimeStamp: 1717168193
+2024-05-31 11:09:53,901  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:09:53,969  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:09:56,168  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:09:57,251  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:09:57,535  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:09:57,673  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:09:57,800  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:09:58,928  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:09:59,404  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:10:26,527  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:10:26,527  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:10:27,627  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:10:27,670  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:10:27,671  INFO [main] BaseClass:43 - TimeStamp: 1717168193
+2024-05-31 11:10:27,689  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:10:27,702  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:10:29,316  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:10:29,731  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:10:30,567  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:10:30,691  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:10:30,796  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:10:31,892  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:10:32,366  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:10:59,904  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:10:59,905  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:11:02,444  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 11:11:02,467  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 11:11:02,468  INFO [main] BaseClass:43 - TimeStamp: 1717168193
+2024-05-31 11:11:02,487  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 11:11:02,528  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 11:11:04,518  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-05-31 11:11:04,944  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 11:11:05,848  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 11:11:06,067  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 11:11:06,171  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 11:11:07,296  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 11:11:07,768  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-05-31 11:11:35,538  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-05-31 11:11:35,539  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 11:11:39,536  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 15:05:33,521  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 15:05:33,524  INFO [main] BaseClass:43 - TimeStamp: 1717182333
+2024-05-31 15:05:36,895  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 15:05:37,044  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 15:05:43,866  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 15:05:46,132  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 15:05:46,633  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 15:05:46,844  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 15:05:47,036  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 15:05:48,317  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 15:05:49,028  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 15:05:49,029  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 15:05:52,195  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 15:05:52,363  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 15:05:52,363  INFO [main] BaseClass:43 - TimeStamp: 1717182333
+2024-05-31 15:05:52,456  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 15:05:52,534  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 15:05:57,633  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 15:06:01,011  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 15:06:01,371  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 15:06:01,661  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 15:06:01,953  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 15:06:03,226  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 15:06:04,217  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 15:06:04,218  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 15:06:07,613  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 15:21:53,393  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 15:21:53,424  INFO [main] BaseClass:43 - TimeStamp: 1717183312
+2024-05-31 15:21:58,665  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 15:21:59,037  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 15:22:11,968  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 15:22:15,558  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 15:22:16,853  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 15:22:17,695  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 15:22:18,271  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 15:22:19,784  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 15:22:20,881  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 15:22:20,886  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 15:22:25,493  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 15:22:25,747  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 15:22:25,752  INFO [main] BaseClass:43 - TimeStamp: 1717183312
+2024-05-31 15:22:26,121  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 15:22:26,473  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 15:22:32,566  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 15:22:34,844  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 15:22:37,828  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 15:22:38,769  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 15:22:41,453  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 15:22:46,593  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 15:22:48,572  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 15:22:48,572  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 15:22:57,318  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 20:39:45,207  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 20:39:46,062  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 20:39:46,063  INFO [main] BaseClass:43 - TimeStamp: 1717202386
+2024-05-31 20:39:46,806  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 20:39:46,827  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 20:39:47,989  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 20:39:49,121  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 20:39:49,310  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 20:39:49,386  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 20:39:49,449  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 20:39:50,545  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 20:39:53,636  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 20:39:53,637  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 20:39:53,836  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 20:39:53,866  INFO [main] BaseClass:42 - Initialization Test...
+2024-05-31 20:39:53,866  INFO [main] BaseClass:43 - TimeStamp: 1717202386
+2024-05-31 20:39:53,885  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 20:39:53,898  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 20:39:54,689  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 20:39:55,528  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 20:39:55,712  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 20:39:55,801  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 20:39:55,874  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 20:39:56,955  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 20:39:59,383  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 20:39:59,383  INFO [main] BaseClass:60 - ::::Active Browser is close::::
+2024-05-31 20:40:01,100  INFO [main] BaseClass:62 - ::::All Browser is quit::::
+2024-05-31 20:48:09,475  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 20:48:10,403  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 20:48:10,403  INFO [main] BaseClass:44 - TimeStamp: 1717202890
+2024-05-31 20:48:10,682  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 20:48:10,702  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 20:48:11,680  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 20:48:12,076  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 20:48:12,929  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 20:48:13,013  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 20:48:13,081  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 20:48:14,144  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 20:48:17,793  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 20:48:17,793  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 20:48:17,990  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 20:48:18,034  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 20:48:18,034  INFO [main] BaseClass:44 - TimeStamp: 1717202890
+2024-05-31 20:48:18,049  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 20:48:18,060  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 20:48:19,026  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 20:48:19,871  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 20:48:20,028  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 20:48:20,111  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 20:48:20,175  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 20:48:21,245  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 20:48:24,759  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 20:48:24,759  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 20:48:24,960  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 20:50:20,338  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 20:50:21,197  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 20:50:21,197  INFO [main] BaseClass:44 - TimeStamp: 1717203021
+2024-05-31 20:50:21,442  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 20:50:21,467  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 20:50:22,439  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 20:50:23,414  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 20:50:23,601  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 20:50:23,693  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 20:50:23,775  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 20:50:24,854  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 20:50:28,477  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 20:50:28,478  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 20:50:30,348  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 20:50:30,393  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 20:50:30,393  INFO [main] BaseClass:44 - TimeStamp: 1717203021
+2024-05-31 20:50:30,405  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 20:50:30,413  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 20:50:31,089  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 20:50:32,003  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 20:50:32,153  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 20:50:32,230  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 20:50:32,293  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 20:50:33,359  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 20:50:36,860  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 20:50:36,860  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 20:50:37,005  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 21:01:02,608  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 21:01:03,817  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 21:01:03,817  INFO [main] BaseClass:44 - TimeStamp: 1717203663
+2024-05-31 21:01:04,172  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 21:01:04,200  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 21:01:05,389  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 21:01:06,673  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 21:01:06,871  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 21:01:06,961  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 21:01:07,036  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 21:01:08,116  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 21:01:12,446  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 21:01:12,446  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 21:01:14,246  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 21:04:16,492  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 21:04:17,603  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 21:04:17,604  INFO [main] BaseClass:44 - TimeStamp: 1717203857
+2024-05-31 21:04:17,946  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 21:04:17,978  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 21:04:19,234  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 21:04:20,226  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 21:04:20,460  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 21:04:20,577  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 21:04:20,669  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 21:04:21,739  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 21:04:34,721  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 21:04:34,721  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 21:04:34,930  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 21:10:41,395  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 21:10:42,567  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 21:10:42,567  INFO [main] BaseClass:44 - TimeStamp: 1717204242
+2024-05-31 21:10:42,890  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 21:10:42,913  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 21:10:44,237  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 21:10:45,209  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 21:10:45,428  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 21:10:45,538  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 21:10:45,631  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 21:10:46,721  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 21:10:50,527  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 21:10:50,527  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 21:10:50,725  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 21:11:06,807  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 21:11:07,938  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 21:11:07,939  INFO [main] BaseClass:44 - TimeStamp: 1717204267
+2024-05-31 21:11:08,264  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 21:11:08,288  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 21:11:09,543  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 21:11:10,478  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 21:11:10,715  INFO [main] BaseClass:65 - Entered Email: point@gmail.com
+2024-05-31 21:11:10,842  INFO [main] BaseClass:69 - Entered Password
+2024-05-31 21:11:10,940  INFO [main] BaseClass:73 - Clicked on Enter Button
+2024-05-31 21:11:12,012  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 21:11:15,698  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 21:11:15,698  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 21:11:15,879  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-05-31 21:17:02,992  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-05-31 21:17:04,261  INFO [main] BaseClass:43 - Initialization Test...
+2024-05-31 21:17:04,262  INFO [main] BaseClass:44 - TimeStamp: 1717204624
+2024-05-31 21:17:04,591  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-05-31 21:17:04,628  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-05-31 21:17:05,881  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-05-31 21:17:06,987  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-05-31 21:17:07,213  INFO [main] BaseClass:66 - Entered Email: point@gmail.com
+2024-05-31 21:17:07,312  INFO [main] BaseClass:70 - Entered Password
+2024-05-31 21:17:07,390  INFO [main] BaseClass:74 - Clicked on Enter Button
+2024-05-31 21:17:08,478  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-05-31 21:17:12,722  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-05-31 21:17:12,723  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-05-31 21:17:12,886  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-02 09:42:26,827  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-02 09:42:28,338  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-02 09:42:28,339  INFO [main] BaseClass:44 - TimeStamp: 1717335748
+2024-06-02 09:42:29,569  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-02 09:42:29,616  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-02 09:42:31,764  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-06-02 09:42:33,049  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-06-02 09:42:33,426  INFO [main] BaseClass:66 - Entered Email: point@gmail.com
+2024-06-02 09:42:33,546  INFO [main] BaseClass:70 - Entered Password
+2024-06-02 09:42:33,651  INFO [main] BaseClass:74 - Clicked on Enter Button
+2024-06-02 09:42:34,776  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-02 09:42:40,049  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-06-02 09:42:40,049  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-02 09:42:42,360  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-02 13:56:43,432  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-02 13:56:45,043  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-02 13:56:45,043  INFO [main] BaseClass:44 - TimeStamp: 1717351005
+2024-06-02 13:56:46,132  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-02 13:56:46,152  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-02 13:56:48,017  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] should be possible to filter countries
+2024-06-02 13:56:49,289  INFO [main] BaseClass:29 - Visitedhttps://www.playball-qa.fun/
+2024-06-02 13:56:49,547  INFO [main] BaseClass:66 - Entered Email: point@gmail.com
+2024-06-02 13:56:49,674  INFO [main] BaseClass:70 - Entered Password
+2024-06-02 13:56:49,771  INFO [main] BaseClass:74 - Clicked on Enter Button
+2024-06-02 13:56:50,866  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-02 13:56:55,319  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] should be possible to filter countries
+2024-06-02 13:56:55,320  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-02 13:56:57,306  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-02 14:24:42,616  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-02 14:24:43,839  WARN [main] Utils:133 - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+2024-06-03 11:20:16,951  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-03 11:20:18,397  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:20:18,398  INFO [main] BaseClass:44 - TimeStamp: 1717428018
+2024-06-03 11:20:20,051  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:20:20,088  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:20:22,235  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:20:23,479  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:20:24,187  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:20:24,187  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:20:26,341  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:20:26,373  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:20:26,373  INFO [main] BaseClass:44 - TimeStamp: 1717428018
+2024-06-03 11:20:26,386  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:20:26,397  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:20:27,566  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:20:28,523  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:20:29,213  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:20:29,213  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:20:29,565  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:20:29,591  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:20:29,592  INFO [main] BaseClass:44 - TimeStamp: 1717428018
+2024-06-03 11:20:29,616  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:20:29,632  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:20:31,301  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:20:32,193  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:20:32,829  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:20:32,829  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:20:33,134  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:21:22,169  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-03 11:21:23,606  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:21:23,607  INFO [main] BaseClass:44 - TimeStamp: 1717428083
+2024-06-03 11:21:23,984  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:21:24,014  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:21:25,668  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:21:26,663  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:21:27,741  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:21:27,741  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:21:28,016  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:21:28,044  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:21:28,045  INFO [main] BaseClass:44 - TimeStamp: 1717428083
+2024-06-03 11:21:28,065  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:21:28,088  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:21:29,715  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:21:30,672  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:21:31,680  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:21:31,680  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:21:31,962  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:21:31,999  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:21:32,000  INFO [main] BaseClass:44 - TimeStamp: 1717428083
+2024-06-03 11:21:32,018  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:21:32,029  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:21:33,267  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:21:34,268  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:21:35,279  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:21:35,279  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:21:35,548  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:22:11,578  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-03 11:22:13,003  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:22:13,004  INFO [main] BaseClass:44 - TimeStamp: 1717428133
+2024-06-03 11:22:13,371  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:22:13,417  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:22:14,932  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:22:15,937  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:22:17,246  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:22:17,247  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:22:17,574  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:22:17,629  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:22:17,629  INFO [main] BaseClass:44 - TimeStamp: 1717428133
+2024-06-03 11:22:17,649  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:22:17,669  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:22:19,280  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:22:20,187  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:22:21,480  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:22:21,480  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:22:21,746  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:22:21,772  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:22:21,772  INFO [main] BaseClass:44 - TimeStamp: 1717428133
+2024-06-03 11:22:21,792  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:22:21,806  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:22:23,360  INFO [main] BaseClass:15 - Scenario Executing Start :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:22:24,314  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:22:25,550  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Negative] User should not be able to login with invalid credential
+2024-06-03 11:22:25,550  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:22:25,848  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:29:11,991  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-03 11:29:13,440  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:29:13,442  INFO [main] BaseClass:44 - TimeStamp: 1717428553
+2024-06-03 11:29:13,831  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:29:13,865  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:29:15,566  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-06-03 11:29:16,563  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:29:16,877  INFO [main] BaseClass:71 - Entered Email: point@gmail.com
+2024-06-03 11:29:16,989  INFO [main] BaseClass:75 - Entered Password
+2024-06-03 11:29:17,083  INFO [main] BaseClass:79 - Clicked on Enter Button
+2024-06-03 11:29:18,206  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-03 11:29:18,657  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-06-03 11:29:20,642  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-06-03 11:29:20,643  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:29:22,532  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:29:22,580  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:29:22,581  INFO [main] BaseClass:44 - TimeStamp: 1717428553
+2024-06-03 11:29:22,609  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:29:22,629  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:29:23,917  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-06-03 11:29:24,974  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:29:25,259  INFO [main] BaseClass:71 - Entered Email: point@gmail.com
+2024-06-03 11:29:25,386  INFO [main] BaseClass:75 - Entered Password
+2024-06-03 11:29:25,495  INFO [main] BaseClass:79 - Clicked on Enter Button
+2024-06-03 11:29:26,605  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-03 11:29:27,056  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-06-03 11:29:28,992  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-06-03 11:29:28,993  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:29:31,065  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:29:31,088  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:29:31,089  INFO [main] BaseClass:44 - TimeStamp: 1717428553
+2024-06-03 11:29:31,109  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:29:31,120  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:29:32,415  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-06-03 11:29:33,554  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:29:33,813  INFO [main] BaseClass:71 - Entered Email: point@gmail.com
+2024-06-03 11:29:33,929  INFO [main] BaseClass:75 - Entered Password
+2024-06-03 11:29:34,034  INFO [main] BaseClass:79 - Clicked on Enter Button
+2024-06-03 11:29:35,135  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-03 11:29:35,630  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-06-03 11:29:37,761  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-06-03 11:29:37,761  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:29:38,168  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:30:46,359  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\sadou\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-03 11:30:48,160  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:30:48,162  INFO [main] BaseClass:44 - TimeStamp: 1717428648
+2024-06-03 11:30:48,649  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:30:48,688  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:30:51,026  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-06-03 11:30:52,131  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:30:52,384  INFO [main] BaseClass:71 - Entered Email: point@gmail.com
+2024-06-03 11:30:52,494  INFO [main] BaseClass:75 - Entered Password
+2024-06-03 11:30:52,598  INFO [main] BaseClass:79 - Clicked on Enter Button
+2024-06-03 11:30:53,690  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-03 11:30:54,126  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-06-03 11:30:56,091  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-06-03 11:30:56,092  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:30:58,130  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:30:58,162  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:30:58,162  INFO [main] BaseClass:44 - TimeStamp: 1717428648
+2024-06-03 11:30:58,197  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:30:58,223  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:30:59,858  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-06-03 11:31:00,811  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:31:01,119  INFO [main] BaseClass:71 - Entered Email: point@gmail.com
+2024-06-03 11:31:01,250  INFO [main] BaseClass:75 - Entered Password
+2024-06-03 11:31:01,369  INFO [main] BaseClass:79 - Clicked on Enter Button
+2024-06-03 11:31:02,494  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-03 11:31:03,005  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-06-03 11:31:05,310  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-06-03 11:31:05,310  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:31:07,686  INFO [main] BaseClass:63 - ::::All Browser is quit::::
+2024-06-03 11:31:07,725  INFO [main] BaseClass:43 - Initialization Test...
+2024-06-03 11:31:07,726  INFO [main] BaseClass:44 - TimeStamp: 1717428648
+2024-06-03 11:31:07,760  INFO [main] WebDriverManager:1220 - Using chromedriver 125.0.6422.141 (resolved driver for Chrome 125)
+2024-06-03 11:31:07,792  INFO [main] WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\sadou\.cache\selenium\chromedriver\win64\125.0.6422.141\chromedriver.exe
+2024-06-03 11:31:10,042  INFO [main] BaseClass:15 - Scenario Executing Start :-[Positive] User should be able to add countries
+2024-06-03 11:31:11,048  INFO [main] BaseClass:32 - Visitedhttps://www.playball-qa.fun/
+2024-06-03 11:31:11,347  INFO [main] BaseClass:71 - Entered Email: point@gmail.com
+2024-06-03 11:31:11,537  INFO [main] BaseClass:75 - Entered Password
+2024-06-03 11:31:11,678  INFO [main] BaseClass:79 - Clicked on Enter Button
+2024-06-03 11:31:12,874  INFO [main] BaseClass:28 - Dashboard page is displayed
+2024-06-03 11:31:13,362  INFO [main] BaseClass:39 - Clicked on Countries & cities option
+2024-06-03 11:31:15,818  INFO [main] BaseClass:26 - Scenario Executing Finish :-[Positive] User should be able to add countries
+2024-06-03 11:31:15,818  INFO [main] BaseClass:61 - ::::Active Browser is close::::
+2024-06-03 11:31:18,797  INFO [main] BaseClass:63 - ::::All Browser is quit::::

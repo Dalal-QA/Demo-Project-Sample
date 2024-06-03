@@ -1,10 +1,12 @@
 package com.pageObjects;
 
 import com.base.BaseClass;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.locators.RelativeLocator;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class LoginPage extends BaseClass {
@@ -19,10 +21,11 @@ public class LoginPage extends BaseClass {
     @FindBy(xpath="//input[@name='password']")
     WebElement passwordField;
 
+
     @FindBy(xpath="//button[text()='Enter']")
     WebElement enterButton;
     @FindBy(xpath = "//div[text()='Login has not been completed. Incorrect password!']")
-    WebElement errorMessage;
+    public WebElement errorMessage;
 
     public void visitUrl(String website){
         driver.get(website);
@@ -38,6 +41,8 @@ public class LoginPage extends BaseClass {
         sendKeysToElement(passwordField,password);
     }
 
+
+
     public void clickEnter(){
         clickOnElement(enterButton);
 
@@ -45,6 +50,7 @@ public class LoginPage extends BaseClass {
     }
 
     public WebElement isErrorMessageVisible(){
+
         return wait.until(ExpectedConditions.visibilityOf(errorMessage));
     }
 

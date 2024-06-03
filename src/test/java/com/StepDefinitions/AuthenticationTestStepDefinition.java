@@ -66,7 +66,9 @@ public class AuthenticationTestStepDefinition extends BaseClass {
     }
     @Then("error message should be displayed")
     public void error_message_should_be_displayed() {
+
         loginPage.isErrorMessageVisible();
+        highlightElement(driver,loginPage.errorMessage);
 
     }
 
